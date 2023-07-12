@@ -1,0 +1,38 @@
+body {
+background-color: black;
+}
+
+.paragraph {
+color: white;
+}
+
+.title {
+color: white;
+}
+
+#BTN1 {
+  position: relative;
+  top: -5px;
+  left: -54px; 
+  color: black;
+}
+
+#BTN2 {
+position: relative;
+top: -28px;
+left: -136px;
+color: black;
+}
+
+#BTN3 {
+position: relative;
+top: -52px;
+left: -190px;
+color: black;
+}
+
+#tm2 {
+position: relative;
+top: -185px;
+left: 55px;
+}
